@@ -653,7 +653,7 @@ html, body {
 }
 
 /* ============ DONE ============ */
-.done-screen { position: relative; }
+.done-screen { position: absolute; inset: 0; }
 .done-screen .check {
   width: 210px; height: 210px; border-radius: 50%;
   background: var(--red);
@@ -677,7 +677,8 @@ html, body {
   color: rgba(244,240,230,0.7); max-width: 690px;
 }
 .done-screen .reset-timer {
-  position: absolute; bottom: 60px;
+  position: absolute; top: 50%; left: 50%; transform: translateX(-50%);
+  white-space: nowrap;
   font-family: 'Barlow Condensed', sans-serif;
   font-weight: 500; font-size: 21px; letter-spacing: 0.32em;
   color: rgba(244,240,230,0.4); text-transform: uppercase;

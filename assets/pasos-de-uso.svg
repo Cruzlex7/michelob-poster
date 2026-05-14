@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" font-family="Arial, sans-serif">
+
+  <!-- Fondo -->
+  <rect width="1200" height="400" fill="#0A1E3F"/>
+
+  <!-- Banda roja superior -->
+  <rect width="1200" height="8" fill="#C8102E"/>
+
+  <!-- Título -->
+  <text x="600" y="58" text-anchor="middle" font-size="22" font-weight="700" letter-spacing="6" fill="#F4F0E6" opacity="0.6">GOOD PACE POSTERS — GUÍA DE USO</text>
+
+  <!-- ── PASO 1 ── -->
+  <g transform="translate(90, 90)">
+    <!-- Círculo numerado -->
+    <circle cx="110" cy="60" r="42" fill="none" stroke="#C8102E" stroke-width="3"/>
+    <text x="110" y="72" text-anchor="middle" font-size="48" font-weight="700" fill="#C8102E">1</text>
+    <!-- Ícono pantalla táctil -->
+    <text x="110" y="155" text-anchor="middle" font-size="52">👆</text>
+    <!-- Título del paso -->
+    <text x="110" y="210" text-anchor="middle" font-size="20" font-weight="700" letter-spacing="2" fill="#F4F0E6">TOCA LA PANTALLA</text>
+    <!-- Descripción -->
+    <text x="110" y="238" text-anchor="middle" font-size="15" fill="#F4F0E6" opacity="0.6">Inicia tu experiencia</text>
+    <text x="110" y="258" text-anchor="middle" font-size="15" fill="#F4F0E6" opacity="0.6">en el tótem</text>
+    <!-- Listón decorativo -->
+    <rect x="98" y="272" width="24" height="40" fill="#C8102E"/>
+    <polygon points="98,312 110,302 122,312" fill="#0A1E3F"/>
+  </g>
+
+  <!-- Flecha 1→2 -->
+  <g transform="translate(310, 218)">
+    <line x1="0" y1="0" x2="68" y2="0" stroke="#C9A961" stroke-width="2" stroke-dasharray="6,4"/>
+    <polygon points="68,0 56,-6 56,6" fill="#C9A961"/>
+  </g>
+
+  <!-- ── PASO 2 ── -->
+  <g transform="translate(388, 90)">
+    <circle cx="110" cy="60" r="42" fill="none" stroke="#C8102E" stroke-width="3"/>
+    <text x="110" y="72" text-anchor="middle" font-size="48" font-weight="700" fill="#C8102E">2</text>
+    <text x="110" y="155" text-anchor="middle" font-size="52">✍️</text>
+    <text x="110" y="210" text-anchor="middle" font-size="20" font-weight="700" letter-spacing="2" fill="#F4F0E6">ESCRIBE TU NOMBRE</text>
+    <text x="110" y="238" text-anchor="middle" font-size="15" fill="#F4F0E6" opacity="0.6">Usa el teclado</text>
+    <text x="110" y="258" text-anchor="middle" font-size="15" fill="#F4F0E6" opacity="0.6">en pantalla</text>
+    <rect x="98" y="272" width="24" height="40" fill="#C8102E"/>
+    <polygon points="98,312 110,302 122,312" fill="#0A1E3F"/>
+  </g>
+
+  <!-- Flecha 2→3 -->
+  <g transform="translate(608, 218)">
+    <line x1="0" y1="0" x2="68" y2="0" stroke="#C9A961" stroke-width="2" stroke-dasharray="6,4"/>
+    <polygon points="68,0 56,-6 56,6" fill="#C9A961"/>
+  </g>
+
+  <!-- ── PASO 3 ── -->
+  <g transform="translate(686, 90)">
+    <circle cx="110" cy="60" r="42" fill="none" stroke="#C8102E" stroke-width="3"/>
+    <text x="110" y="72" text-anchor="middle" font-size="48" font-weight="700" fill="#C8102E">3</text>
+    <text x="110" y="155" text-anchor="middle" font-size="52">🏃</text>
+    <text x="110" y="210" text-anchor="middle" font-size="20" font-weight="700" letter-spacing="2" fill="#F4F0E6">¿POR QUÉ CORRES?</text>
+    <text x="110" y="238" text-anchor="middle" font-size="15" fill="#F4F0E6" opacity="0.6">Elige un motivo</text>
+    <text x="110" y="258" text-anchor="middle" font-size="15" fill="#F4F0E6" opacity="0.6">o escribe el tuyo</text>
+    <rect x="98" y="272" width="24" height="40" fill="#C8102E"/>
+    <polygon points="98,312 110,302 122,312" fill="#0A1E3F"/>
+  </g>
+
+  <!-- Flecha 3→4 -->
+  <g transform="translate(906, 218)">
+    <line x1="0" y1="0" x2="68" y2="0" stroke="#C9A961" stroke-width="2" stroke-dasharray="6,4"/>
+    <polygon points="68,0 56,-6 56,6" fill="#C9A961"/>
+  </g>
+
+  <!-- ── PASO 4 ── -->
+  <g transform="translate(984, 90)">
+    <circle cx="110" cy="60" r="42" fill="#C8102E" stroke="none"/>
+    <text x="110" y="72" text-anchor="middle" font-size="48" font-weight="700" fill="#F4F0E6">4</text>
+    <text x="110" y="155" text-anchor="middle" font-size="52">🖨️</text>
+    <text x="110" y="210" text-anchor="middle" font-size="20" font-weight="700" letter-spacing="2" fill="#F4F0E6">¡IMPRIME Y LLEVA!</text>
+    <text x="110" y="238" text-anchor="middle" font-size="15" fill="#F4F0E6" opacity="0.6">Recoge tu poster</text>
+    <text x="110" y="258" text-anchor="middle" font-size="15" fill="#F4F0E6" opacity="0.6">del lado izquierdo</text>
+    <rect x="98" y="272" width="24" height="40" fill="#C9A961"/>
+    <polygon points="98,312 110,302 122,312" fill="#0A1E3F"/>
+  </g>
+
+  <!-- Banda navy inferior con texto -->
+  <rect y="364" width="1200" height="36" fill="#081730"/>
+  <text x="600" y="387" text-anchor="middle" font-size="13" letter-spacing="4" fill="#F4F0E6" opacity="0.35">CORFERIAS · BOGOTÁ · 23–25 JUL 2026 · GOOD PACE</text>
+
+</svg>
