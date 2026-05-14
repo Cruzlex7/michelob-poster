@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 248">
+  <g fill="#0A1E3F">
+    <!-- Head -->
+    <circle cx="278" cy="35" r="23"/>
+
+    <!-- Torso (leaning forward ~25°) -->
+    <path d="M262,57 C254,82 246,112 242,146 L268,146 C270,112 280,84 294,61 Z"/>
+
+    <!-- Leading arm — upper arm (swings forward-up) -->
+    <path d="M262,78 C248,68 232,60 216,56 L212,70 C228,74 244,82 258,94 Z"/>
+    <!-- Leading arm — forearm -->
+    <path d="M216,56 C200,52 182,52 166,56 L164,70 C180,66 198,66 212,70 Z"/>
+
+    <!-- Trailing arm — upper arm (swings back) -->
+    <path d="M286,76 C300,92 314,106 326,118 L334,108 C322,94 308,80 294,66 Z"/>
+    <!-- Trailing arm — forearm -->
+    <path d="M326,118 C338,130 348,142 354,152 L360,142 C354,130 344,118 334,108 Z"/>
+
+    <!-- Hip -->
+    <path d="M242,144 L268,144 L272,160 L238,160 Z"/>
+
+    <!-- Front leg — thigh (extends forward) -->
+    <path d="M242,158 L272,158 L288,212 L258,212 Z"/>
+    <!-- Front leg — shin -->
+    <path d="M258,212 L288,212 L306,244 L274,244 Z"/>
+    <!-- Front foot -->
+    <path d="M274,246 C290,244 318,236 340,232 L342,246 C320,250 292,254 276,254 Z"/>
+
+    <!-- Back leg — thigh (angled back-down) -->
+    <path d="M244,158 L268,158 L250,202 L226,202 Z"/>
+    <!-- Back leg — shin (kicked up behind) -->
+    <path d="M226,202 L250,202 L234,160 L210,160 Z"/>
+    <!-- Back foot (pointing back-up) -->
+    <path d="M210,160 C196,164 178,170 162,174 L160,160 C176,156 194,150 208,146 Z"/>
+  </g>
+
+  <!-- Red finishing tape -->
+  <rect x="8" y="130" width="364" height="20" fill="#C8102E"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 130">
+  <!--
+    PLACEHOLDER — Reemplazar con el archivo oficial de marca Michelob Ultra.
+    Solicitar al equipo de marca: logo vectorial (.svg o .ai) o PNG 600x250 px mínimo.
+  -->
+  <text
+    x="160" y="58"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-style="italic"
+    font-size="60"
+    fill="#0A1E3F">Michelob</text>
+  <text
+    x="160" y="116"
+    text-anchor="middle"
+    font-family="'Arial Narrow', Arial, sans-serif"
+    font-weight="700"
+    font-size="66"
+    letter-spacing="10"
+    fill="#0A1E3F">ULTRA.</text>
+</svg>
